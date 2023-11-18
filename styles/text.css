@@ -1,0 +1,117 @@
+@import url('https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+:root {
+	--primary-color: #ffe713;
+	--text-color: #727171;
+} 
+html {
+	font-size: 10px;
+}
+body {
+	font-family: 'Be Vietnam Pro', sans-serif;
+	background-color: rgb(32, 31, 31);
+	color: white;
+}
+h1 {
+    font-size: 30px;
+    margin-top: 1vw;
+    margin-left: 20px;
+    color: #282928;
+	font-weight: 700;
+}
+.title {
+    font-size: 25px;
+    margin-top: 1vw;
+    color: #ebebeb;
+	font-weight: 700;
+}
+.information_time {
+    font-size: 18px;
+   	margin-left: 20px;
+	color: rgb(0, 0, 0);
+	font-weight: 300;
+}
+.information_title {
+    font-size: 18px;
+    margin-top: 0.1vw;
+	margin-left: 20px;
+    color: rgb(0, 0, 0);
+	font-weight: 680;
+}
+.information_description {
+    font-size: 19px;
+    margin-top: 0.2vw;
+	margin-left: 20px;
+	margin-right: 2vw;
+	color: rgb(0, 0, 0);
+	font-weight: 400;
+	line-break: loose;
+    text-justify: inter-word;
+	text-align: justify;
+}
+.header_text{
+	display: block;
+	text-align: left;
+	margin-top: -1vw;
+    color: rgb(208, 208, 208);
+	font-weight: 350;
+	font-size: 20px;
+}
+.profile_name {
+	color: rgb(235, 168, 1);
+	font-weight: 800;
+	font-size: 70px;
+	text-transform: uppercase;
+	display: block;
+	margin-top: 0.7vw;
+	margin-bottom: 0.3vw;
+	margin-left: 0;
+	text-align: left;
+}
+.description {
+    display: block;
+	text-align: center;
+	margin-bottom: 10px;
+	font-weight: 390;
+	font-size: 20px;
+	color: rgb(0, 0, 0);
+    line-height: 25px;
+    line-break: loose;
+    text-justify: inter-word;
+}
+.contacts {
+    display: block;
+	margin-top: -10px;
+	margin-bottom: -5px;
+	text-align: left;
+	font-weight: 430;
+	font-size: 19px;
+	color: rgb(28, 28, 28);
+}
+.languages {
+    display: block;
+	margin-top: -10px;
+	margin-bottom: 10px;
+	text-align: center;
+	font-weight: 430;
+	font-size: 22px;
+	color: rgb(28, 28, 28);
+}
+.skills {
+    display: block;
+	margin-top: -10px;
+	margin-bottom: px;
+	text-align: center;
+	font-weight: 430;
+	font-size: 22px;
+	color: rgb(28, 28, 28);
+}
+.version {
+    display: block;
+	margin-top: -25px;
+	margin-bottom: 5px;
+	text-align: center;
+	font-weight: 430;
+	font-size: 22px;
+	color: rgb(28, 28, 28);
+}
